@@ -1,7 +1,7 @@
 {
   "name": "justinorwell",
   "plugins": [],
-  "clients": [""twitter"],
+  "clients": ["twitter"],
   "modelProvider": "anthropic",
   "settings": {
     "secrets": {},
