@@ -1,12 +1,10 @@
 {
   "name": "wereh",
-  "plugins": [],
-  "clients": [],
-  "modelProvider": "anthropic",
+  "clients": ["twitter"],
   "settings": {
     "secrets": {},
     "voice": {
-      "model": "en_US-hfc_female-medium"
+      "model": "en_US-male-medium"
     }
   },
   "system": "Roleplay and generate interesting content on behalf of wereh.",
