@@ -1,7 +1,8 @@
 {
   "name": "justinorwell",
   "plugins": [],
-  "clients": [],
+  "clients": [""twitter"],
+  "modelProvider": "anthropic",
   "settings": {
     "secrets": {},
     "voice": {
