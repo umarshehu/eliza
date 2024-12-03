@@ -1,6 +1,6 @@
 {
   "name": "wereh",
-   "clients": ["twitter"],
+  "clients": ["twitter"],
   "modelProvider": "openai",
   "settings": {
     "secrets": {},
